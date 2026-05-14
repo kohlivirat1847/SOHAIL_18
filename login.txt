@@ -1,0 +1,2 @@
+input email/username 
+input password 
